@@ -43,6 +43,7 @@ including:
 <ul>jwt-decode</ul>
 <ul>graphql</ul>
 <ul>bcrypt</ul>
+<ul>cra-template-pwa</ul>
 </ li>
 
 ## License
