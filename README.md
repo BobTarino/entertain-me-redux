@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+<h1 align="center">Entertain Me!</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![badgeImage](https://img.shields.io/badge/license-MIT-blue)
 
-## Available Scripts
+## Description
+An single page application that presents info on a specific movie, show or video game based on certain criteria a user enters. Behaving like a multi-page app, users can efficiently sort between through media, save what they are interested in, and share their playlists with friends and fellow users. 
+## UserStory
+AS A USER
+I WANT to search for new movies, tv shows, and/or video games
+SO THAT I can keep a playlist and share with friends.
 
-In the project directory, you can run:
 
-### `npm start`
+## Table of Contents
+- [Installation](#install)
+- [Usage](#usage)
+- [License](#license)
+- [Repo](#repo)
+- [Deploy](#deploy)
+- [Contributing](#contribution)
+- [Questions](#questions)
+## Installation
+Clone files on GitHub to your machine. You will then run 'npm i' and it will install the needed dependencies.
+![Screen Shot 2021-08-18 at 2 31 00 PM](https://user-images.githubusercontent.com/79377937/129972933-1299efb7-0ee8-4a3a-b067-b8908744b1e3.png)
+![Screen Shot 2021-08-18 at 2 31 14 PM](https://user-images.githubusercontent.com/79377937/129972937-2a75e90e-641a-483c-ab72-6a666f23d373.png)
+![Screen Shot 2021-08-18 at 2 34 10 PM](https://user-images.githubusercontent.com/79377937/129972942-852a8f5a-fd83-4a17-a3bc-077dbac76998.png)
+![Screen Shot 2021-08-18 at 2 40 05 PM](https://user-images.githubusercontent.com/79377937/129972944-328fb0e2-847f-4e09-a3b3-5213a54e8516.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Usage
+MERN (MongoDB, Express.js, React, Node.js)
 
-### `npm test`
+including:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<li>
+<ul>concurrently</ul>
+<ul>@apollo/client</ul>
+<ul>bootstrap</ul>
+<ul>axios</ul>
+<ul>cors</ul>
+<ul>dotenv</ul>
+<ul>workbox</ul>
+<ul>jsonwebroken</ul>
+<ul>jwt-decode</ul>
+<ul>graphql</ul>
+<ul>bcrypt</ul>
+</ li>
 
-### `npm run build`
+## License
+    Licensed under MIT
+<br />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Repo
+<ul>Repository (https://github.com/wadep23/entertain-me-redux)</ul>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Deploy
+<ul>Deployed Site (https://entertain-me-redux.herokuapp.com/)</ul>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contributing
+<li>
+<ul>James Canter(https://github.com/Cantalorian)</ul>
+<ul>Wade Facer (https://github.com/wadep23/)</ul>
+<ul>Bob Tarino (https://github.com/BobTarino)</ul>
+<ul>Jake Williams (https://github.com/jakelw96)</ul>
+</li>
 
-### `npm run eject`
+## Questions
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+If you have questions about this repository, you can find us <ul>here! (https://github.com/wadep23/entertain-me-redux)</ul>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
