@@ -28,7 +28,7 @@ SO THAT I can keep a playlist and share with friends.
 - [Questions](#questions)
 ## Installation
 * Clone files on GitHub to your machine. 
-* You will then run 'npm i' and it will install the needed dependencies.
+* You will then run 'npm i' in root, client, and server folder, and it will install the needed dependencies.
 * Commands:
 *   "npm run start": "node server/server.js"
     "npm run build": "cd client && npm run build"
