@@ -27,7 +27,15 @@ SO THAT I can keep a playlist and share with friends.
 - [Contributing](#contribution)
 - [Questions](#questions)
 ## Installation
-Clone files on GitHub to your machine. You will then run 'npm i' and it will install the needed dependencies.
+* Clone files on GitHub to your machine. 
+* You will then run 'npm i' and it will install the needed dependencies.
+* Commands:
+*   "npm run start": "node server/server.js"
+    "npm run build": "cd client && npm run build"
+    "npm run develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"" // creates      source map
+    "npm run install": "cd server && npm i && cd ../client && npm i"
+
+#### Screenshots
 ![Screen Shot 2021-08-18 at 2 31 00 PM](https://user-images.githubusercontent.com/79377937/129972933-1299efb7-0ee8-4a3a-b067-b8908744b1e3.png)
 ![Screen Shot 2021-08-18 at 2 31 14 PM](https://user-images.githubusercontent.com/79377937/129972937-2a75e90e-641a-483c-ab72-6a666f23d373.png)
 ![Screen Shot 2021-08-18 at 2 34 10 PM](https://user-images.githubusercontent.com/79377937/129972942-852a8f5a-fd83-4a17-a3bc-077dbac76998.png)
