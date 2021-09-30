@@ -5,10 +5,17 @@
 
 ## Description
 An single page application that presents info on a specific movie, show or video game based on certain criteria a user enters. Behaving like a multi-page app, users can efficiently sort between through media, save what they are interested in, and share their playlists with friends and fellow users. 
-## UserStory
+## User Story
 AS A USER
 I WANT to search for new movies, tv shows, and/or video games
 SO THAT I can keep a playlist and share with friends.
+
+#### Features
+- Ability to choose between Movies, Television, and Video Games
+- User can filter results by genre or platform
+- Previous search results are displayed for convenience
+- Social media capabilities 
+- Watch traiiler! 
 
 
 ## Table of Contents
