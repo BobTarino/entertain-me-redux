@@ -10,7 +10,7 @@ AS A USER
 I WANT to search for new movies, tv shows, and/or video games
 SO THAT I can keep a playlist and share with friends.
 
-#### Features
+## Features
 - Ability to choose between Movies, Television, and Video Games
 - User can filter results by genre or platform
 - Previous search results are displayed for convenience
